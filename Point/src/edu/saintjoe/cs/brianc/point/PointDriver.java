@@ -1,5 +1,9 @@
 package edu.saintjoe.cs.brianc.point;
 
+/* PointDriver class to test Point 
+ * Brian Capouch 
+ * Moved to Eclipse/github 1 March 2015
+ */
 public class PointDriver {
 
 	public static void main(String[] args ) {
