@@ -24,9 +24,12 @@ public class PointDriver {
 	middlePoint.y = 512.0;
 
 	// Print one of the points
+	System.out.print("Value of upperRight: ");
 	upperRight.printPoint();
 	upperRight.setPoint(15.0, 15.0);
+	System.out.print("Value of upperRight: ");
 	upperRight.printPoint();
+	System.out.print("Value of middlePoint: ");
 	middlePoint.printPoint();
 	System.out.println("The distance between your points is " + upperRight.distance(middlePoint));
 	}
