@@ -10,8 +10,8 @@ public double x,y;
 
 // Print out the coordinates for a single point
 public void printPoint() {
-  System.out.println("X coordinate: " +  this.x);
-  System.out.println("Y coordinate: " +  this.y);
+  System.out.print("X coordinate: " +  this.x);
+  System.out.println(" Y coordinate: " +  this.y);
 }
 
 // Clear x and y values (i.e. reset point to 0)
